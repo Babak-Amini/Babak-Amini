@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Babak-Amini
+- 👀 I’m interested in Full-Stack software development
+- 🌱 I’m currently improving my skills for work opportunities
+- 📫 How to reach me e: babakaamini@gmail.com c: 774-279-0922
